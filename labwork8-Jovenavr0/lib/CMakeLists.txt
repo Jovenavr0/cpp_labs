@@ -1,0 +1,1 @@
+add_library(pattern pattern.cpp pattern.h)

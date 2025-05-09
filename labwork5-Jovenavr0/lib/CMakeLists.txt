@@ -1,0 +1,1 @@
+add_library(array array.cpp array.h)
